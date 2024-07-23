@@ -1,0 +1,47 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@inertiajs/inertia": "^0.11.0",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@tailwindcss/forms": "^0.5.3",
+        "@tailwindcss/typography": "^0.5.8",
+        "@vitejs/plugin-vue": "^3.0.0",
+        "autoprefixer": "^10.4.13",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.6.0",
+        "lodash": "^4.17.19",
+        "postcss": "^8.4.19",
+        "sass": "^1.56.1",
+        "tailwindcss": "^3.2.4",
+        "tippy.js": "^6.3.7",
+        "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "@ant-design/icons-vue": "^6.1.0",
+        "@fawmi/vue-google-maps": "^0.9.79",
+        "@headlessui/vue": "^1.7.7",
+        "@inertiajs/inertia": "^0.11.1",
+        "@inertiajs/inertia-vue3": "^0.6.0",
+        "@inertiajs/progress": "^0.2.7",
+        "@tiptap/extension-text-align": "^2.0.0-beta.205",
+        "@tiptap/extension-underline": "^2.0.0-beta.205",
+        "@tiptap/starter-kit": "^2.0.0-beta.205",
+        "@tiptap/vue-3": "^2.0.0-beta.205",
+        "@vitejs/plugin-vue": "^3.2.0",
+        "@vuelidate/components": "^1.2.3",
+        "@vuelidate/core": "^2.0.0",
+        "@vuelidate/validators": "^2.0.0",
+        "dayjs": "^1.11.7",
+        "moment": "^2.29.4",
+        "swiper": "^8.4.5",
+        "vue": "^3.2.45",
+        "vue-signature-pad": "^3.0.2",
+        "vue-sweetalert2": "^5.0.5",
+        "ziggy": "^2.4.0"
+    }
+}

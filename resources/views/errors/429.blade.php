@@ -1,0 +1,9 @@
+@extends('errors::minimal')
+
+@section('title', __('Too Many Requests'))
+@section('code', '429')
+@section('message', __('Too Many Requests'))
+
+@section('button')
+  <a class="py-2 px-4 mt-10 bg-lightgreen rounded-md text-white font-semibold" href="/">Go to home</a>
+@endsection
